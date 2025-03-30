@@ -14,3 +14,7 @@ __pycache__/
 
 # Archivos de PyCharm
 .idea/
+
+.git/
+
+.gitignore
